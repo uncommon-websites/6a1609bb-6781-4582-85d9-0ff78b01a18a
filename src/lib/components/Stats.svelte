@@ -7,20 +7,20 @@
     <!-- Stat 1 -->
     <div class="w-full md:w-1/2 md:pr-12 md:border-r border-gray-200 border-dashed mb-12 md:mb-0">
       <div class="font-serif text-5xl md:text-6xl text-gray-900 mb-4">
-        350+
+        500+
       </div>
       <p class="text-gray-500 text-sm max-w-xs">
-        Leading advice firms use Saturn to capture data, create reports and strengthen compliance
+        Target certifications through our AI-powered platform and expert regulatory support
       </p>
     </div>
 
     <!-- Stat 2 -->
     <div class="w-full md:w-1/2 md:pl-12">
       <div class="font-serif text-5xl md:text-6xl text-gray-900 mb-4">
-        1000+
+        100+
       </div>
       <p class="text-gray-500 text-sm max-w-xs">
-        Advisers trust Saturn to strengthen their client relationships
+        Regulatory document templates covering all device types and standards
       </p>
     </div>
   </div>

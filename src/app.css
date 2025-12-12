@@ -18,7 +18,7 @@
 	--color-gray-900: oklch(0.216 0.006 56.043);
 	--color-gray-950: oklch(0.147 0.004 49.25);
 
-	--color-primary-blue: #10249F; /* Deep Royal Blue */
+	--color-primary-blue: oklch(0.588 0.158 241.966); /* FormlyAI Primary-600 */
 	--color-bg-light: #F9F9F9;
 }
 
